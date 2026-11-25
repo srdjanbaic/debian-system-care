@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Debian System Care
+Comment=System maintenance and update manager
+Exec=/usr/bin/debian-system-care
+Icon=debian-system-care
+Terminal=false
+Categories=System;Settings;
+StartupNotify=true
